@@ -1,0 +1,9 @@
+# 忽略操作系统生成的隐藏文件
+.DS_Store
+Thumbs.db
+
+# 忽略日志文件
+*.log
+
+# 忽略vscode配置文件
+.vscode
